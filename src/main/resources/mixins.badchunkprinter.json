@@ -1,0 +1,9 @@
+{
+    "package": "net.caseif.badchunkprinter.mixin",
+    "refmap": "mixin.badchunkprinter.refmap.json",
+    "target": "@env(DEFAULT)",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "MixinAnvilChunkLoader"
+    ]
+}
