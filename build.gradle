@@ -44,7 +44,7 @@ ext.inceptionYear = '2017'
 ext.packaging = 'jar'
 
 minecraft {
-    forgeVersion = '2772'
+    forgeVersion = '1.12.2-14.23.5.2814'
     runDir = 'minecraft'
     mappings = 'stable_39'
 }
